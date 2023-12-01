@@ -70,5 +70,5 @@ def plot_results():
 
 
 if __name__ == "__main__":
-    run_tests()
-    # plot_results()
+    # run_tests()
+    plot_results()
